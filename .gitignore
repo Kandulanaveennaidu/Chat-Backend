@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables and sensitive config files
+.env
+.env.*
+*.env
